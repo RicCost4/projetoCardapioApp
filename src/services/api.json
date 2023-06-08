@@ -1,0 +1,377 @@
+{
+    "cervejas": [
+        {
+            "id": 101,
+		    "nome": "Brahma",
+		    "preço": "9.50"
+        },
+        {
+            "id": 102,
+		    "nome": "Bohemia",
+		    "preço": "9.50"
+        },
+        {
+            "id": 103,
+		    "nome": "Skol",
+		    "preço": "8.50"
+        },
+        {
+            "id": 104,
+		    "nome": "Antártic",
+		    "preço": "8.50"
+        },
+        {
+            "id": 105,
+		    "nome": "Devass",
+		    "preço": "8.50"
+        },
+        {
+            "id": 106,
+		    "nome": "Original",
+		    "preço": "12.50"
+        },
+        {
+            "id": 107,
+		    "nome": "Stella",
+		    "preço": "12.50"
+        },
+        {
+            "id": 108,
+		    "nome": "Becks",
+		    "preço": "12.50"
+        },
+        {
+            "id": 109,
+		    "nome": "Spaten",
+		    "preço": "12.50"
+        },
+        {
+            "id": 110,
+		    "nome": "Budwiser",
+		    "preço": "11.50"
+        },
+        {
+            "id": 111,
+		    "nome": "BR D.Malte",
+		    "preço": "11.50"
+        },
+        {
+            "id": 112,
+		    "nome": "Heineken",
+		    "preço": "14.00"
+        },
+        {
+            "id": 113,
+		    "nome": "Amstel",
+		    "preço": "10.50"
+        },
+        {
+            "id": 114,
+		    "nome": "Petra",
+		    "preço": "10.50"
+        },
+        {
+            "id": 115,
+		    "nome": "B&B",
+		    "preço": "19.00"
+        },
+        {
+            "id": 116,
+		    "nome": "Lagoinha",
+		    "preço": "19.00"
+        },
+        {
+            "id": 117,
+		    "nome": "Colorado",
+		    "preço": "19.00"
+        },
+        {
+            "id": 118,
+		    "nome": "Antártica litrão",
+		    "preço": "11.00"
+        },
+        {
+            "id": 119,
+		    "nome": "Brahma litrã",
+		    "preço": "13.00"
+        },
+        {
+            "id": 120,
+		    "nome": "Bohemia litrão",
+		    "preço": "13.00"
+        },
+        {
+            "id": 121,
+		    "nome": "Brahma lata",
+		    "preço": "5.00"
+        },
+        {
+            "id": 122,
+		    "nome": "Heineken Longneck",
+		    "preço": "9.00"
+        },
+        {
+            "id": 123,
+		    "nome": "Stella Longneck",
+		    "preço": "8.00"
+        },
+        {
+            "id": 124,
+		    "nome": "Black Princess Longneck",
+		    "preço": "8.00"
+        },
+        {
+            "id": 125,
+		    "nome": "Brahma latão",
+		    "preço": "6.50"
+        },
+        {
+            "id": 126,
+		    "nome": "Amstel latão",
+		    "preço": "6.50"
+        },
+        {
+            "id": 127,
+		    "nome": "Caracu",
+		    "preço": "8.00"
+        },
+        {
+            "id": 128,
+		    "nome": "Malzebier",
+		    "preço": "8.00"
+        },
+        {
+            "id": 129,
+		    "nome": "Brahma sem álcool",
+		    "preço": "8.00"
+        }
+    ],
+    "semAlcool": [
+        {
+            "id": 201,
+		    "nome": "Coca Cola 2L",
+		    "preço": "14.50"
+        },
+        {
+            "id": 202,
+		    "nome": "Pepsi 2L",
+		    "preço": "12.00"
+        },
+        {
+            "id": 203,
+		    "nome": "Guaraná Antarctica 2L",
+		    "preço": "12.00"
+        },
+        {
+            "id": 204,
+		    "nome": "Refrigerante 1L",
+		    "preço": "8.50"
+        },
+        {
+            "id": 205,
+		    "nome": "Refrigerante 600ml",
+		    "preço": "7.50"
+        },
+        {
+            "id": 206,
+		    "nome": "Refrigerante lata",
+		    "preço": "6.00"
+        },
+        {
+            "id": 207,
+		    "nome": "Refrigerante ks 290ml",
+		    "preço": "5.00"
+        },
+        {
+            "id": 208,
+		    "nome": "Energetico",
+		    "preço": "13.00"
+        },
+        {
+            "id": 209,
+		    "nome": "H2O",
+		    "preço": "7.00"
+        },
+        {
+            "id": 210,
+		    "nome": "Suco",
+		    "preço": "6.50"
+        },
+        {
+            "id": 211,
+		    "nome": "Limonada Suiça",
+		    "preço": "7.00"
+        },
+        {
+            "id": 212,
+		    "nome": "Água natural ou gasosa",
+		    "preço": "4.00"
+        }
+    ],
+    "destilados": [
+        {
+            "id": 301,
+		    "nome": "Vinho nacional",
+		    "preço": "10.00"
+        },
+        {
+            "id": 302,
+		    "nome": "Vodka Orloff",
+		    "preço": "12.00"
+        },
+        {
+            "id": 303,
+		    "nome": "Caipirinha",
+		    "preço": "13.00"
+        },
+        {
+            "id": 304,
+		    "nome": "Caipirissima",
+		    "preço": "15.00"
+        },
+        {
+            "id": 305,
+		    "nome": "Capivodka",
+		    "preço": "15.00"
+        },
+        {
+            "id": 306,
+		    "nome": "Salinas",
+		    "preço": "7.00"
+        },
+        {
+            "id": 307,
+		    "nome": "Seleta",
+		    "preço": "7.00"
+        },
+        {
+            "id": 308,
+		    "nome": "Bacardi",
+		    "preço": "12.00"
+        },
+        {
+            "id": 309,
+		    "nome": "campari",
+		    "preço": "12.00"
+        },
+        {
+            "id": 310,
+		    "nome": "Dreher",
+		    "preço": "6.00"
+        },
+        {
+            "id": 311,
+		    "nome": "Domeq",
+		    "preço": "8.00"
+        },
+        {
+            "id": 312,
+		    "nome": "Presidente",
+		    "preço": "8.00"
+        }
+    ],
+    "porcoes": [
+        {
+            "id": 401,
+		    "nome": "Tilápia",
+		    "preço": "49.00"
+        },
+        {
+            "id": 402,
+		    "nome": "Carne Sol c/Mandioca",
+		    "preço": "51.00"
+        },
+        {
+            "id": 403,
+		    "nome": "Batata-Frita",
+		    "preço": "19.00"
+        },
+        {
+            "id": 404,
+		    "nome": "Fritas c/queijo",
+		    "preço": "27.00"
+        },
+        {
+            "id": 405,
+		    "nome": "Fritas c/baco",
+		    "preço": "27.00"
+        },
+        {
+            "id": 406,
+		    "nome": "Fritas completa",
+		    "preço": "35.00"
+        },
+        {
+            "id": 407,
+		    "nome": "Mandioca",
+		    "preço": "19.00"
+        },
+        {
+            "id": 408,
+		    "nome": "Mandioca c/calabresa",
+		    "preço": "27.00"
+        },
+        {
+            "id": 409,
+		    "nome": "Frango a Passarinho",
+		    "preço": "30.00"
+        },
+        {
+            "id": 410,
+		    "nome": "Bolinho de bacalhau",
+		    "preço": "28.00"
+        },
+        {
+            "id": 411,
+		    "nome": "Torresmo(pupuruca)",
+		    "preço": "18.00"
+        }
+    ],
+    "feijoada": [
+        {
+            "id": 501,
+		    "nome": "Completa Tradicional",
+		    "preço": "35.00"
+        },
+        {
+            "id": 502,
+		    "nome": "Completa Magra",
+		    "preço": "40.00"
+        },
+        {
+            "id": 503,
+		    "nome": "Trupico Magra",
+		    "preço": "35.00"
+        },
+        {
+            "id": 504,
+		    "nome": "Trupico Tradicional",
+		    "preço": "27.00"
+        },
+        {
+            "id": 505,
+		    "nome": "Trupiquinho Tradicional",
+		    "preço": "15.00"
+        },
+        {
+            "id": 506,
+		    "nome": "Trupiquinho Magra",
+		    "preço": "20.00"
+        },
+        {
+            "id": 507,
+		    "nome": "Marmitex Magra",
+		    "preço": "25.00"
+        },
+        {
+            "id": 508,
+		    "nome": "Marmitex Tradicional",
+		    "preço": "20.00"
+        },
+        {
+            "id": 509,
+		    "nome": "Prato Montado",
+		    "preço": "10.00"
+        }
+    ]
+}
